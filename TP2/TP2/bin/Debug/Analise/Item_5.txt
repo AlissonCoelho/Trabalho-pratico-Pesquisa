@@ -1,0 +1,8 @@
+Dados_Aleatorios 2/6/2019 18:58:9
+    Tempo Gasto: 0segundos
+    Comparações: 255998
+Fim
+Dados_Aleatorios 2/6/2019 19:3:59
+    Tempo Gasto: 0segundos
+    Comparações: 255998
+Fim

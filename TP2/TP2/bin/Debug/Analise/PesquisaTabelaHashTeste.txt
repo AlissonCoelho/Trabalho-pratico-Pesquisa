@@ -1,0 +1,64 @@
+Pesquisa em tabela hash 2/6/2019 2:37:13
+    ChavePesquisada 5
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 1
+Pesquisa em tabela hash 2/6/2019 2:39:17
+    ChavePesquisada 5
+    Tempo Gasto: 3segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 1
+Pesquisa em tabela hash 2/6/2019 2:39:43
+    ChavePesquisada 5
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 1
+Pesquisa em tabela hash 2/6/2019 2:40:3
+    ChavePesquisada 5
+Pesquisa em tabela hash 2/6/2019 2:43:0
+    ChavePesquisada 9627337
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 20488
+    Comparações: 3
+    Numero maximo de Colisões:  8
+Pesquisa em tabela hash 2/6/2019 2:48:22
+    ChavePesquisada 4
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 4
+    Numero maximo de Colisões:  81128
+Pesquisa em tabela hash 2/6/2019 2:49:23
+    ChavePesquisada 3
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 5
+    Numero maximo de Colisões:  47149
+Pesquisa em tabela hash 2/6/2019 18:30:8
+    ChavePesquisada 9683617
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 106397
+    Comparações: 4
+    Numero maximo de Colisões:  47149
+Pesquisa em tabela hash 2/6/2019 18:34:32
+    ChavePesquisada 13442213
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 14132
+    Comparações: 4
+    Numero maximo de Colisões:  47149
+Fim
+Pesquisa em tabela hash 2/6/2019 18:40:59
+    ChavePesquisada 4
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 4
+    Numero maximo de Colisões:  2
+Fim

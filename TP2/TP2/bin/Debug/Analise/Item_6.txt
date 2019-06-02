@@ -1,0 +1,5 @@
+Dados_Aleatorios 2/6/2019 19:5:33
+    Cidade Pesquisada: Paris
+    Tempo Gasto: 0segundos
+    Comparações: 338504
+Fim

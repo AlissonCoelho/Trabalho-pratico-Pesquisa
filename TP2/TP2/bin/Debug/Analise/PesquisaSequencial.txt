@@ -1,0 +1,72 @@
+Dados Ordenados 2/6/2019 1:45:6
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 2515
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 107635
+    Comparações: 107635
+Fim
+Dados Ordenados 2/6/2019 1:48:11
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 9683617
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 106397
+    Comparações: 55650
+Fim
+Dados Ordenados 2/6/2019 1:48:44
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 0
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 128000
+Fim
+Dados Ordenados 2/6/2019 1:49:10
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 20144084
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 267
+    Comparações: 128000
+Fim
+Dados Ordenados 2/6/2019 3:24:16
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 20142268
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 258
+    Comparações: 259
+Fim
+Dados Ordenados 2/6/2019 3:27:12
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 2515
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 107634
+    Comparações: 107635
+Fim
+Dados Ordenados 2/6/2019 3:27:41
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 2515
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 0
+    Comparações: 1
+Fim
+Dados Ordenados 2/6/2019 14:8:51
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 169306
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 110547
+    Comparações: 110548
+Fim

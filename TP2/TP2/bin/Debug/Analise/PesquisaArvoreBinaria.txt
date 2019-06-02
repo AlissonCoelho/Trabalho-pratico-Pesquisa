@@ -1,0 +1,224 @@
+Dados Aleatorios 2/6/2019 1:45:24
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 2515
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 107635
+    Comparações: 28
+Fim
+Dados Aleatorios 2/6/2019 1:48:20
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 9683617
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 106397
+    Comparações: 92
+Fim
+Dados Aleatorios 2/6/2019 1:48:51
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 0
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 1:49:19
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 20144084
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 267
+    Comparações: 34
+Fim
+Dados Aleatorios 2/6/2019 2:7:28
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 4
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 2:19:59
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 3
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 2:20:35
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 3
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 2:28:45
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 3
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 2:29:21
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 3
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 2:33:43
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 3
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 2:36:55
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 5
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 3:14:19
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 7
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 4:33:9
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 9683617
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 106397
+    Comparações: 92
+Fim
+Dados Aleatorios 2/6/2019 4:35:23
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 9683617
+    Tempo Gasto: 89segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 106397
+    Comparações: 92
+Fim
+Dados Aleatorios 2/6/2019 4:36:59
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 999999
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 51
+Fim
+Dados Aleatorios 2/6/2019 4:43:10
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 10047973
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 1
+    Comparações: 4
+Fim
+Dados Aleatorios 2/6/2019 4:44:19
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 6101120
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 55950
+    Comparações: 55
+Fim
+Dados Aleatorios 2/6/2019 13:55:58
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 3
+Dados Aleatorios 2/6/2019 13:59:20
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 3
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 14:4:54
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 3
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 27
+Fim
+Dados Aleatorios 2/6/2019 14:9:3
+Pesquisa Sequencial Analise:
+
+    ChavePesquisada 169306
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 110548
+    Comparações: 108
+Fim
+Dados Aleatorios 2/6/2019 14:23:9
+Pesquisa Arvore Binaria Analise:
+
+    ChavePesquisada 6101120
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 55950
+    Comparações: 55
+    Altura No: 22
+Fim
+Dados Aleatorios 2/6/2019 14:24:33
+Pesquisa Arvore Binaria Analise:
+
+    ChavePesquisada 10047973
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 1
+    Comparações: 4
+    Altura No: 1
+Fim
+Dados Aleatorios 2/6/2019 14:26:55
+Pesquisa Arvore Binaria Analise:
+
+    ChavePesquisada 9683617
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 106397
+    Comparações: 92
+    Altura No: 37
+Fim
+Dados Aleatorios 2/6/2019 14:33:49
+Pesquisa Arvore Binaria Analise:
+
+    ChavePesquisada 9999999
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 106
+    Altura No: 0
+Fim

@@ -1,0 +1,7 @@
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\TP2 - Pesquisas\TP2\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\TP2 - Pesquisas\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\TP2 - Pesquisas\TP2\TP2\bin\Debug\TP2.exe.config
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\TP2 - Pesquisas\TP2\TP2\bin\Debug\TP2.exe
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\TP2 - Pesquisas\TP2\TP2\bin\Debug\TP2.pdb
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\TP2 - Pesquisas\TP2\TP2\obj\Debug\TP2.exe
+E:\Dados\PUC\4° Periodo\AED - Algoritimo Estrutura de dados\TP2 - Pesquisas\TP2\TP2\obj\Debug\TP2.pdb

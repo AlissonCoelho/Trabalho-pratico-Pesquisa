@@ -1,0 +1,117 @@
+Pesquisa em tabela hash 2/6/2019 1:45:29
+    ChavePesquisada 2515
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 107635
+    Comparações: 5
+Fim
+Pesquisa em tabela hash 2/6/2019 1:48:30
+    ChavePesquisada 9683617
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 106397
+    Comparações: 5
+Fim
+Pesquisa em tabela hash 2/6/2019 1:48:55
+    ChavePesquisada 0
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 1
+Fim
+Pesquisa em tabela hash 2/6/2019 1:49:23
+    ChavePesquisada 20144084
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 267
+    Comparações: 3
+Fim
+Pesquisa em tabela hash 2/6/2019 2:37:13
+    ChavePesquisada 5
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 1
+Fim
+Fim
+Pesquisa em tabela hash 2/6/2019 2:39:17
+    ChavePesquisada 5
+    Tempo Gasto: 4segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 1
+Fim
+Fim
+Pesquisa em tabela hash 2/6/2019 2:39:43
+    ChavePesquisada 5
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 1
+Fim
+Fim
+Pesquisa em tabela hash 2/6/2019 2:40:3
+    ChavePesquisada 5
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 1
+Fim
+Pesquisa em tabela hash 2/6/2019 2:43:0
+    ChavePesquisada 9627337
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 20488
+    Comparações: 3
+    Numero maximo de Colisões: 8
+Fim
+Fim
+Pesquisa em tabela hash 2/6/2019 2:48:22
+    ChavePesquisada 4
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 3
+    Numero maximo de Colisões: 80704
+Fim
+Fim
+Pesquisa em tabela hash 2/6/2019 2:49:23
+    ChavePesquisada 3
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 1
+    Numero maximo de Colisões: 46865
+Fim
+Fim
+Pesquisa em tabela hash 2/6/2019 18:30:8
+    ChavePesquisada 9683617
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 106397
+    Comparações: 5
+    Numero maximo de Colisões: 46865
+Fim
+Fim
+Pesquisa em tabela hash 2/6/2019 18:34:32
+    ChavePesquisada 13442213
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Sim
+    Indice da Chave: 14132
+    Comparações: 3
+    Numero maximo de Colisões: 46865
+Fim
+Pesquisa em tabela hash 2/6/2019 18:36:42
+    ChavePesquisada 13442213
+    Tempo Gasto: 0segundos
+Pesquisa em tabela hash 2/6/2019 18:39:13
+    ChavePesquisada 4
+    Tempo Gasto: 0segundos
+Pesquisa em tabela hash 2/6/2019 18:40:59
+    ChavePesquisada 4
+    Tempo Gasto: 0segundos
+    Chave Encontrada: Não
+    Indice da Chave: -
+    Comparações: 3
+    Numero maximo de Colisões: 1
+Fim

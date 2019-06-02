@@ -1,0 +1,15 @@
+room_id	host_id	room_type	country	city	neighborhood	reviews	overall_satisfaction	accommodates	bedrooms	price	property_type	Indice
+8522	25435	Entire home/apt	France	Paris	Père-Lachaise	1	0.0	3	1.0	108.0	Apartment	20742
+10774	35294	Entire home/apt	Brazil	Sao Paulo	Santa Cecília	2	0.0	3	2.0	54.0	Apartment	114919
+9952	33534	Entire home/apt	France	Paris	Saint-Ambroise	6	5.0	2	1.0	72.0	Apartment	42466
+379850	1228784	Entire home/apt	Spanish	Barcelona	Sant Martí	6	4.0	10	4.0	181.0	Apartment	127034
+24261	97797	Entire home/apt	USA	New York	Park Slope	23	5.0	3	2.0	150.0	Apartment	79259
+41584	181551	Private room	Brazil	Sao Paulo	Jardim Paulista	27	5.0	2	1.0	88.0	House	118236
+2525	2771	Entire home/apt	France	Paris	Notre-Dame-des-Champs	31	4.5	1	0.0	70.0	Apartment	40356
+24266	97797	Private room	USA	New York	Park Slope	34	5.0	3	1.0	100.0	Apartment	95684
+415892	366654	Entire home/apt	Spanish	Barcelona	Eixample	49	5.0	4	2.0	469.0	Apartment	127557
+380433	1908520	Shared room	Spanish	Barcelona	Gràcia	66	5.0	2	1.0	24.0	Apartment	126964
+27684	119637	Private room	Brazil	Sao Paulo	Consolação	75	4.5	2	1.0	31.0	House	119375
+25492	25798	Entire home/apt	Brazil	Salvador	PASSO	77	4.5	2	1.0	41.0	Apartment	125348
+9342	30055	Entire home/apt	France	Paris	Grenelle	88	5.0	12	4.0	423.0	Apartment	2080
+2515	2758	Private room	USA	New York	Harlem	154	4.5	2	1.0	59.0	Apartment	107634

@@ -1,0 +1,157 @@
+Criar Arvore Binaria Analise 2/6/2019 1:42:44:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 1:52:37:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 1:54:26:
+
+Criar Arvore Binaria Analise 2/6/2019 2:7:16:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 2:19:51:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 2:20:28:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 2:28:36:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 2:29:14:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 2:33:36:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 2:41:35:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 2:44:9:
+
+    Tempo Gasto: 1segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 2:48:13:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 3:8:51:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 4:3:35:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 4:4:28:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 4:5:56:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 4:8:13:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 4:13:40:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 4:16:8:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 4:20:21:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 4:21:43:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 13:55:19:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 13:56:34:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 13:57:41:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 13:59:13:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 14:4:47:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 14:8:39:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 14:22:58:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 18:39:4:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 18:39:25:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 18:40:52:
+
+    Tempo Gasto: 0segundos
+    Comparações: 6712995
+Fim
+Criar Arvore Binaria Analise 2/6/2019 19:3:53:
+
+    Tempo Gasto: 1segundos
+    Comparações: 6712995
+Fim
